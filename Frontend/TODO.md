@@ -1,0 +1,8 @@
+- [x] Update index.css for dark theme
+- [x] Update Home.jsx to use dark theme classes
+- [x] Update BooksTable.jsx to use dark theme classes
+- [x] Update BooksCard.jsx to use dark theme classes
+- [x] Update BookSingleCard.jsx to use dark theme classes
+- [x] Update other components (BackButton, Spinner, etc.) to use dark theme
+- [x] Update CreateBooks, EditBooks, ShowBooks, DeleteBooks to use dark theme
+- [ ] Test the changes
